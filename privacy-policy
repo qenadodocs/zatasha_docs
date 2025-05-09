@@ -1,0 +1,40 @@
+Privacy Policy for Zatasha
+Effective Date: 06-06-2025
+We developed Zatasha, a mobile game available on iOS and Android platforms. This Privacy Policy explains how we collect, use, and protect your information when you use the game.
+1. Information We Collect
+We do not collect personally identifiable information such as your name, email address, or phone number.
+
+We only collect:
+- Player Country: This is obtained through a third-party IP-based geolocation service. We use this country information to:
+  - Display the player’s country in their profile.
+  - Rank players in regional leaderboards (future feature).
+  - (Future) Deliver ads or promotional content tailored to the player’s country, including from direct advertising partners.
+
+Note: We do not directly access or store your IP address — only the resulting country data returned by the third-party service.
+2. Third-Party Services
+Zatasha uses the following third-party services, which may collect data in accordance with their own privacy policies:
+- Unity Ads
+- Google AdMob
+- (Possibly) AppLovin or other ad networks
+- Facebook SDK (for Facebook login functionality)
+- IP Geolocation Services (used solely to determine player country)
+
+Please refer to the respective privacy policies of these services for more information on how they handle user data.
+3. In-App Purchases
+Zatasha includes optional in-app purchases. These transactions are handled by the Apple App Store or Google Play Store. We do not collect or store any payment or billing information.
+4. Player Accounts
+Players may create an account using Unity Authentication. This allows for saving progress, syncing data across devices, and identifying players across sessions. We do not collect personal information through this system.
+5. Children’s Privacy
+Zatasha is a family-friendly game suitable for all ages. We do not knowingly collect personal information from children under the age of 13.
+6. Planned Use of Country Data
+In future updates, we may use the player’s country (determined via IP-based lookup) to:
+- Rank players in country-based leaderboards.
+- Deliver ads or promotional content tailored to the player’s country, including from direct advertising partners.
+
+This usage will be limited to non-personally identifiable geographic data.
+7. Your Privacy Rights and Choices
+If you have questions or concerns about your data, or if you would like us to delete your player information, you can contact us at:
+
+📧 qoassitancy@gmail.com
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. If changes occur, they will be posted within the game or on the app store listing. Continued use of the game after updates means you accept the revised policy.
