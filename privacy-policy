@@ -1,71 +1,109 @@
 Privacy Policy for Zatasha
-Effective Date: 05‑09‑2025
+Effective Date: 04-03-2026
 
-We developed Zatasha, a mobile game available on iOS and Android platforms. This Privacy Policy explains how we collect, use, and protect your information when you use the game.
+We developed Zatasha, a mobile game available on iOS and Android platforms. This Privacy Policy explains how we collect, use, and protect information when you use the game.
 
 1. Information We Collect
-We do not collect personally identifiable information such as your name, email address, or phone number.
 
-We only collect:
+We do not directly collect personally identifiable information such as your name, email address, or phone number.
+
+However, the game collects limited non-personal information necessary for gameplay and basic functionality.
 
 Player Country
-This is obtained through a third‑party IP‑based geolocation service. We use this country information to:
+We determine the player's country using an IP-based geolocation service. The geolocation service temporarily processes the device’s IP address in order to determine the country.
 
-Display the player’s country in their profile.
+We do not store the IP address, and only the resulting country information may be stored.
 
-Rank players in regional leaderboards (future feature).
+We use the player’s country to:
+- Display the player’s country in their profile
+- Rank players in regional leaderboards (future feature)
+- Analyze power-up usage trends by country
+- Offer country-specific promotions or deals
+- (Future) Deliver advertisements or promotional content relevant to the player’s region
 
-Detect and analyze the use of power‑up items in each country.
+This information is not used to personally identify players.
 
-Make and tailor sales deals or promotional offers in the player’s country based on power‑up consumption patterns.
+2. Third-Party Services
 
-(Future) Deliver ads or promotional content tailored to the player’s country, including from direct advertising partners.
+Zatasha integrates third-party services that may collect certain information such as device identifiers, IP address, or usage data according to their own privacy policies.
 
-Note: We do not directly access or store your IP address — only the resulting country data returned by the third-party service. We also do not sell, share, or provide your IP address to advertising networks or other third parties.
+These services may include:
+- Unity Ads
+- Google AdMob
+- AppLovin (if enabled)
+- Facebook SDK (for Facebook login)
+- IP Geolocation services used to determine the player’s country
+- Unity Authentication services used for player accounts
 
-2. Third‑Party Services
-Zatasha uses the following third‑party services, which may collect data in accordance with their own privacy policies:
+These services may collect information such as:
+- Device identifiers
+- IP address
+- Advertising identifiers
+- Gameplay usage data
+- Diagnostic or crash data
 
-Unity Ads
+We recommend reviewing the privacy policies of these services for more details about how they handle user data.
 
-Google AdMob
+3. Advertising & Tracking
 
-(Possibly) AppLovin or other ad networks
+Zatasha displays advertisements through third-party advertising networks.
 
-Facebook SDK (for Facebook login functionality)
+These networks may use device identifiers and similar technologies to provide advertisements and measure ad performance.
 
-IP Geolocation Services (used solely to determine player country)
+On iOS devices, the game may request permission through Apple’s App Tracking Transparency (ATT) framework. If granted, this permission allows advertising partners to deliver more relevant advertisements and measure campaign effectiveness.
 
-Please refer to the respective privacy policies of these services for more information on how they handle user data.
+Allowing or denying tracking permission does not change the number of ads shown, but may affect the relevance of the ads displayed.
 
-3. In‑App Purchases
-Zatasha includes optional in‑app purchases. These transactions are handled by the Apple App Store or Google Play Store. We do not collect or store any payment or billing information.
+Users can modify tracking permissions at any time through their device settings.
 
-4. Player Accounts
-Players may create an account using Unity Authentication. This allows for saving progress, syncing data across devices, and identifying players across sessions. We do not collect personal information through this system.
+4. In-App Purchases
 
-5. Children’s Privacy
-Zatasha is a family‑friendly game suitable for all ages. We do not knowingly collect personal information from children under the age of 13.
+Zatasha offers optional in-app purchases.
 
-6. Planned Use of Country Data
-In future updates, we may use the player’s country (determined via IP‑based lookup) to:
+All payments are processed by the platform providers:
+- Apple App Store
+- Google Play Store
 
-Rank players in country‑based leaderboards.
+We do not collect or store any payment or billing information.
 
-Deliver ads or promotional content tailored to the player’s country, including from direct advertising partners.
+5. Player Accounts
 
-Detect and analyze power‑up usage trends by country.
+Players may sign in using Unity Authentication or supported login providers.
 
-Negotiate and offer country‑specific sales deals or promotions based on player power‑up consumption patterns.
+This allows the game to:
+- Save game progress
+- Synchronise progress across devices
+- Identify players across gameplay sessions
 
-This usage will be limited to non‑personally identifiable geographic data.
+The account system uses unique player identifiers but does not require personal information such as name or email.
 
-7. Your Privacy Rights and Choices
-If you have questions or concerns about your data, or if you would like us to delete your player information, you can contact us at:
+6. Children’s Privacy
 
-📧 qoassitancy@gmail.com
+Zatasha is designed to be a family-friendly game suitable for all ages.
+
+We do not knowingly collect personal information from children under the age of 13. If we become aware that personal information from a child has been collected unintentionally, we will take appropriate steps to delete such information.
+
+7. Data Deletion
+
+Players can delete their game data directly from within the game using the Delete Account / Delete Data option.
+
+When a deletion request is made, we remove the player’s stored game data from our servers.
+
+If you experience issues with data deletion or need assistance, you may contact us at:
+
+support@zatasha.net
 
 8. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. If changes occur, they will be posted within the game or on the app store listing. Continued use of the game after updates means you accept the revised policy.
 
-Thank you for playing Zatasha!
+We may update this Privacy Policy from time to time.
+
+If significant changes are made, the updated policy will be published within the game or on the app store listing.
+
+Continued use of the game after updates indicates acceptance of the revised policy.
+
+Contact
+
+If you have any questions about this Privacy Policy, please contact:
+
+support@zatasha.net
+
