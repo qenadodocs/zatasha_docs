@@ -1,0 +1,84 @@
+Privacy Policy for Zatasha
+Effective Date: July 6, 2026
+
+We developed Zatasha, a mobile game available on iOS and Android platforms. This Privacy Policy explains how we collect, use, and protect information when you use the game.
+
+1. Information We Collect
+We do not require players to provide their name, email address, phone number, or physical address in order to play Zatasha.
+However, Zatasha and the third-party services used in the game may process certain information such as IP address, device identifiers, advertising identifiers, country information, gameplay activity, crash data, purchase status, and unique player account identifiers.
+Player Country
+We determine the player's country using an IP-based geolocation service. The geolocation service temporarily processes the device’s IP address in order to determine the country.
+We do not store the IP address, and only the resulting country information may be stored.
+We use the player’s country to:
+* Display the player’s country in their profile
+* Rank players in regional leaderboards
+* Analyze power-up usage trends by country
+* Offer country-specific promotions or deals
+* Deliver advertisements or promotional content relevant to the player’s region
+This information is not used to personally identify players.
+
+2. Third-Party Services
+Zatasha currently uses third-party services that may collect or process certain information according to their own privacy policies.
+These services may include:
+* Unity Ads
+* Google AdMob
+* Unity Authentication services
+* IP geolocation services used to determine the player’s country
+These services may collect or process information such as:
+* Device identifiers
+* IP address
+* Advertising identifiers
+* Gameplay usage data
+* Diagnostic or crash data
+* Unique player account identifiers
+Zatasha may add additional third-party services in the future, such as AppLovin, other advertising networks, analytics tools, login providers, or promotional service providers.
+If we add new services that materially change how information is collected, used, or shared, we will update this Privacy Policy and any required app store privacy disclosures.
+
+3. Advertising & Tracking
+Zatasha displays advertisements through third-party advertising networks.
+These networks may use device identifiers and similar technologies to provide advertisements, personalize ads where permitted, and measure ad performance.
+On iOS devices, the game may request permission through Apple’s App Tracking Transparency framework. If granted, this permission allows advertising partners to deliver more relevant advertisements and measure campaign effectiveness.
+Allowing or denying tracking permission does not change the number of ads shown, but may affect the relevance of the ads displayed.
+Users can modify tracking permissions at any time through their device settings.
+Zatasha may also display direct advertisements, sponsored content, promotions, or offers from partners who work with us directly.
+These advertisements may be shown inside the game and may be based on general information such as the player’s country, game version, or gameplay context.
+We do not share players’ names, email addresses, or phone numbers with direct advertisers.
+
+4. In-App Purchases
+Zatasha offers optional in-app purchases.
+All payments are processed by the platform providers:
+* Apple App Store
+* Google Play Store
+We do not collect or store payment card or billing information.
+We may store purchase status, entitlement records, transaction identifiers, or receipt validation results to provide purchased items, restore purchases, and prevent fraud.
+
+5. Player Accounts
+Players may sign in using Unity Authentication or supported login providers.
+This allows the game to:
+* Save game progress
+* Synchronize progress across devices
+* Identify players across gameplay sessions
+The account system uses unique player identifiers but does not require players to provide personal information such as name, email address, or phone number.
+
+6. Children’s Privacy
+Zatasha is designed to be a family-friendly game suitable for general audiences.
+We do not knowingly request personal information such as name, email address, phone number, or physical address from children under the age of 13.
+If we become aware that personal information from a child has been collected unintentionally or without required consent, we will take appropriate steps to delete such information.
+If Zatasha is made available through a children’s or family program on an app store, we will configure advertising, tracking, and third-party services in accordance with applicable children’s privacy requirements and platform rules.
+
+7. Data Deletion
+Players can delete their game data directly from within the game using the Delete Account / Delete Data option.
+When a deletion request is made, we remove the player’s stored game data from our servers.
+Some deleted data may remain temporarily in backups, logs, or security records where necessary for technical recovery, fraud prevention, legal compliance, or security purposes.
+If you experience issues with data deletion or need assistance, you may contact us at:
+[support@zatasha.net](mailto:support@zatasha.net)
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time, including when we add new features, SDKs, advertising partners, analytics tools, login providers, or other services.
+If significant changes are made, the updated Privacy Policy will be published within the game, on our website, or on the app store listing.
+Where required by law or platform rules, we may also provide additional notice or request consent through the game, the app store, or device permission systems.
+Users are responsible for reviewing this Privacy Policy periodically. Continued use of Zatasha after an updated Privacy Policy becomes available means that the user accepts the updated Privacy Policy, except where additional notice or consent is required by law or platform rules.
+
+Contact
+If you have any questions about this Privacy Policy, please contact:
+[support@zatasha.net](mailto:support@zatasha.net)
