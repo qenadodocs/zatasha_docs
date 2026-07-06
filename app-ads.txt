@@ -1,0 +1,2 @@
+OWNERDOMAIN=qenadodocs.github.io
+ironsrc.com, 647545, DIRECT
