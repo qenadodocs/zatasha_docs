@@ -31,8 +31,7 @@ These services may collect or process information such as:
 * Gameplay usage data
 * Diagnostic or crash data
 * Unique player account identifiers
-Zatasha may add additional third-party services in the future, such as AppLovin, other advertising networks, analytics tools, login providers, or promotional service providers.
-If we add new services that materially change how information is collected, used, or shared, we will update this Privacy Policy and any required app store privacy disclosures.
+We may process and store purchase validation data, including product identifiers, purchase status, entitlement records, transaction identifiers, receipt data, purchase signatures, local price, currency, country code, and language code. This information may be stored locally on the device temporarily and sent to our server or cloud services to validate purchases, provide purchased items, restore purchases, prevent fraud, and handle failed or pending purchases.
 
 3. Advertising & Tracking
 Zatasha displays advertisements through third-party advertising networks.
