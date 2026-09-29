@@ -7,7 +7,7 @@ We developed Zatasha, a mobile game available on iOS and Android platforms. This
 We do not require players to provide their name, email address, phone number, or physical address in order to play Zatasha.
 However, Zatasha and the third-party services used in the game may process certain information such as IP address, device identifiers, advertising identifiers, country information, gameplay activity, crash data, purchase status, and unique player account identifiers.
 
-**Player Country**
+Player Country
 We determine the player's country using an IP-based geolocation service. The geolocation service temporarily processes the device’s IP address in order to determine the country.
 We do not store the IP address, and only the resulting country information may be stored.
 We use the player’s country to:
