@@ -23,6 +23,7 @@ This information is not used to personally identify players.
 2. Third-Party Services
 Zatasha currently uses third-party services that may collect or process certain information according to their own privacy policies.
 These services may include:
+* Unity LevelPlay (ironSource)
 * Unity Ads
 * Google AdMob
 * Unity Authentication services
